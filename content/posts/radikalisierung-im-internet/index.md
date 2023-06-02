@@ -4,7 +4,7 @@ date = "2023-04-06"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
-image = "https://jugend.support/wp-content/uploads/2018/02/extremismus-im-internet-jugend.support.jpg"
+image = "https://www.sueddeutsche.de/image/sz.1.991986/640x360?v=1528165964"
 description = "Die katalysatorische Wirkung des Internets im Prozess der Radikalisierung\n\n\n\n\n\n"
 +++
 #### *Die katalysatorische Wirkung des Internets im Prozess der Radikalisierung*
